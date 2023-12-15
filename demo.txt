@@ -5,4 +5,8 @@ This is Demo File
 Harsha wrote a new line
 Harsha line 1
 new line
+<<<<<<< HEAD
 conflict line
+=======
+Harsha 
+>>>>>>> 879e128b80ad1fee9fa685877dd16dcf34417a23
